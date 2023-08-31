@@ -1,5 +1,5 @@
-# counter_app
-
+# Counter App
+<img src="images/project-image.png">
 A new Flutter project.
 
 ## Getting Started
